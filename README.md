@@ -65,13 +65,13 @@ Kumaravell A/L Sathiyamurthi
 ## Screenshots
 
 ### Workflow Overview
-![Workflow Overview](Screenshots/workflow-overview.png.png)
+![Workflow Overview](Screenshots/workflow-overview.png)
 
 ### SharePoint Request List
-![SharePoint List](Screenshots/sharepoint-list.png.png)
+![SharePoint List](Screenshots/sharepoint-list.png)
 
 ### Approval Email Notification
-![Approval Email](Screenshots/approval-email-request.png.png)
+![Approval Email](Screenshots/approval-email-request.png)
 
 ### Approval History
-![Approval History](Screenshots/approval-history.png.png)
+![Approval History](Screenshots/approval-history.png)
