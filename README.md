@@ -58,4 +58,20 @@ The workflow was tested successfully with:
 
 ## Author
 
-Kumar
+Kumaravell A/L Sathiyamurthi
+
+---
+
+## Screenshots
+
+### Workflow Overview
+![Workflow Overview](Screenshots/workflow-overview.png.png)
+
+### SharePoint Request List
+![SharePoint List](Screenshots/sharepoint-list.png.png)
+
+### Approval Email Notification
+![Approval Email](Screenshots/approval-email-request.png.png)
+
+### Approval History
+![Approval History](Screenshots/approval-history.png.png)
